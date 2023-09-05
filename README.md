@@ -4,7 +4,7 @@ This is the repository of Building energy modelling based on building informatio
 # Overview
 The workflow of this work is shown as following:
 
-<img src ="img_folder/workflow.jpg width="1000">
+<img src="img_folder/workflow.jpg" width="1000">
 
 # BIM checker configuration
 
