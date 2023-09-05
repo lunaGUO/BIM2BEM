@@ -4,7 +4,7 @@ This is the repository of Building energy modelling based on building informatio
 # Overview
 The workflow of this work is shown as following:
 
-![Workflow of BIM to BEM](https://github.com/lunaGUO/BIM2BEM/tree/main/img_folder/workflow.jpg)
+<img src ="img_folder/workflow.jpg width="1000">
 
 # BIM checker configuration
 
