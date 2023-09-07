@@ -8,7 +8,7 @@ The workflow of this work is shown as following:
 
 # BIM checker configuration
 
-The module is developed by Revit API 2018 (C++ version). As tested, it can be used for Revit 2019-2021.
+The module is developed by Revit API 2018 (C# version). As tested, it can be used for Revit 2019-2021.
 
 It includes serveral module, each module will have a single folder for the code.
 
