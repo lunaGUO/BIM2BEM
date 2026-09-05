@@ -14,7 +14,7 @@ It includes several modules, each module will have a single folder for the code.
 
 # Demonstration
 
-https://www.youtube.com/watch?v=rgebvYHwa8Q
+See the [example video](https://www.youtube.com/watch?v=rgebvYHwa8Q) for a demonstration.
 
 # Cite this work
 
